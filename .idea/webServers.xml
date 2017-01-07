@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3a85c904-1e33-46fc-a651-be571bb32814" name="phptest.riking.org" url="http://phptest.riking.org">
+        <fileTransfer host="home.riking.org" port="59675" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/tank/www/phptest.riking.org/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="59675" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
