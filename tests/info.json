@@ -1,0 +1,10 @@
+{
+  "title": "tests",
+  "desc": "various php test files",
+  "no_link": true,
+  "sublinks": [
+    {"title": "get_info.php", "href": "get_info.php", "desc": "phpinfo()"},
+    {"title": "dump $_SERVER", "href": "dump_server.php"}
+  ],
+  "_": null
+}
