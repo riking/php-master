@@ -1,0 +1,4 @@
+Plain text file, should not go through FPM
+<?php
+echo "F" . "AIL";
+?>
