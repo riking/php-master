@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="phptest.riking.org">
+  <component name="PublishConfigData" serverName="phptest.riking.org" uploadOnCheckin="3a85c904-1e33-46fc-a651-be571bb32814">
     <serverData>
       <paths name="phptest.riking.org">
         <serverdata>
@@ -10,5 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="phptest.riking.org" />
   </component>
 </project>
